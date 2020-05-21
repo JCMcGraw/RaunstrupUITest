@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaunstrupUITest", "RaunstrupUITest\RaunstrupUITest.csproj", "{BA6F9E11-3355-4F11-81D1-62127E7F4B23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA6F9E11-3355-4F11-81D1-62127E7F4B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6F9E11-3355-4F11-81D1-62127E7F4B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6F9E11-3355-4F11-81D1-62127E7F4B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6F9E11-3355-4F11-81D1-62127E7F4B23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3909D53-FAE6-49B9-A972-45EB7BB661C8}
+	EndGlobalSection
+EndGlobal
